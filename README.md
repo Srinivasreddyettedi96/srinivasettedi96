@@ -1,76 +1,24 @@
-Here’s an outstanding GitHub README “About Me” section for your Cloud & DevOps Engineer profile:
 
-```md
-# 👋 Hi, I'm  Srinivas Reddy Ettedi 
-🚀 Cloud & DevOps Engineer | SRE | Platform Engineering Enthusiast  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Srinivas Reddy ettedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ettedisrinivas5@gmail.com) 
 
-I design, automate, and scale cloud-native infrastructure with a strong focus on reliability, security, performance, and developer productivity.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Srinivasreddyettedi96&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Srinivasreddyettedi96&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Srinivasreddyettedi96&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-With hands-on experience across AWS, Kubernetes, Terraform, CI/CD, and observability platforms, I specialize in building resilient systems and automating everything possible.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Srinivasreddyettedi96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ☁️ What I Do
-
-- 🔹 Design scalable cloud infrastructure on AWS, Azure & GCP
-- 🔹 Build and optimize Kubernetes platforms (EKS / Gcp /  Azure )
-- 🔹 Implement Infrastructure as Code using Terraform & Ansible
-- 🔹 Create high-performance CI/CD pipelines using Jenkins & GitHub Actions
-- 🔹 Improve system reliability through monitoring, logging & automation
-- 🔹 Enable DevSecOps practices and cloud security best practices
-- 🔹 Support production environments with strong SRE principles
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Srinivasreddyettedi96&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Srinivasreddyettedi96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Cloud & Infrastructure
-`AWS` `Azure` `GCP` `Terraform` `CloudFormation` `Ansible`
-
-### Containers & Orchestration
-`Docker` `Kubernetes` `EKS` `OpenShift` `Helm`
-
-### CI/CD & Automation
-`Jenkins` `GitHub Actions` `GitLab CI` `Azure DevOps`
-
-### Monitoring & Observability
-`Prometheus` `Grafana` `ELK` `Splunk` `Dynatrace`
-
-### Programming & Scripting
-`Python` `GoLang` `Bash` `Shell Scripting`
-
-### DevOps & Platform Engineering
-`Linux` `Networking` `GitOps` `Microservices` `SRE`
-
----
-
-## 📈 Highlights
-
-- ⚡ Automated infrastructure deployments reducing provisioning time by 80%
-- ⚡ Improved CI/CD efficiency and reduced deployment failures significantly
-- ⚡ Managed production-grade Kubernetes environments at scale
-- ⚡ Built monitoring and alerting systems improving uptime and incident response
-- ⚡ Experienced in 24/7 production support and cloud operations
-
----
-
-## 🌱 Currently Exploring
-
-- Platform Engineering
-- AI Infrastructure & MLOps
-- Kubernetes Operators
-- Cloud Security & DevSecOps
-- Internal Developer Platforms (IDP)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/srinivasreddyettedi
-- 📧 Email: ettedisrinivas5@gmail.com
-- 🌐 Portfolio: [Your Website]
-
----
-
-⭐ *“Automate everything. Scale intelligently. Build reliably.”*
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
